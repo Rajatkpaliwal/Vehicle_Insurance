@@ -9,13 +9,20 @@
 4. Do a "pip list" on terminal to make sure you have local packages installed.
 
 MongoDB Setup
+
 5. Sign up to MongoDB Atlas and create a new project by just providing it a name then next next create.
 6. From "Create a cluster" screen, hit "create", select M0 service keeping other services as default, "create deployement"
 7. Setup the username and password and then create DB user.
 8. Go to "network access" and ip address - "0.0.0.0/0" so that we can access it from anywhere
 9. Go back to project >> "Get connection String" >> "Drivers" >> {Driver:Python, version:3.6 or later}
    >> copy and save the connection String with you(replace password). >> Done.
-10. Create folder "notebook" >> create file "mongoDB_demo.ipynb" >> select kernal>python kernal>visa>>
-11. Kaggle Data link: 
+10. Create folder "notebook" >> do step 11 >> create file "mongoDB_demo.ipynb" >> select kernal>python kernal>vehical>>
+11. Dataset added to notebook folder
 12. Push your data to MongoDB database from python notebook.
 13. Go to mongoDB Atlas >> Database >> browse collection >> see your data in key value format
+
+Logging, exception and notebooks
+
+14. Write the logger file and test it on demo.py
+15. Write the exception file and test it on demo.py
+16. EDA and feature Engg notebook added.
