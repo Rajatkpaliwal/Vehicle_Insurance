@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 
 artifact/
+
+mongo_db.txt
