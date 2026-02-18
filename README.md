@@ -126,7 +126,7 @@ Vehicle_Insurance/
 ```md
 ## 📷 Project Demo Screenshot
 
-![Vehicle Insurance Prediction](Vehicle_insurance.png)
+![Vehicle Insurance Prediction]Vehicle_insurance.png
 ```
 
 ---
