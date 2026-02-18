@@ -123,11 +123,10 @@ Vehicle_Insurance/
 ---
 
 
-
+```md
 ## 📷 Project Demo Screenshot
 
-<img width="1919" height="911" alt="Vehicle_insurance" src="https://github.com/user-attachments/assets/2ac440f7-1c4a-4ed0-aabc-21f44f0e111b" />
-
+![Vehicle Insurance Prediction](Vehicle_insurance.png)
 ```
 
 ---
