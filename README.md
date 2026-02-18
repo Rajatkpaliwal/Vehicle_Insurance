@@ -126,7 +126,8 @@ Vehicle_Insurance/
 ```md
 ## 📷 Project Demo Screenshot
 
-![Vehicle Insurance Prediction](Vehicle_insurance.png)
+<img width="1919" height="911" alt="Vehicle_insurance" src="https://github.com/user-attachments/assets/6ecd8b9f-8fd1-4842-82d6-ba35e638288e" />
+
 ```
 
 ---
